@@ -149,7 +149,6 @@ void solveColourSquare(int square[4][4])
 }
 
 // DO NOT MODIFY ANYTHING BELOW THIS LINE!
-// (we mean it! the auto-checker won't be happy)
 #ifndef __testing   // This is a compiler directive - used by the auto-checker to enable/disable this part of the code
 int main()
 {
