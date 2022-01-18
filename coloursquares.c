@@ -45,7 +45,7 @@ void solveColourSquare(int square[4][4])
  for (i = 0; i < 4; i++)
  {
    unknowns = 0;
-   [0] = 0;
+   cs[0] = 0;
    cs[1] = 0;
    cs[2] = 0;
    cs[3] = 0;
